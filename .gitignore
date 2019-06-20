@@ -12,3 +12,8 @@ src/*
 
 # Varjatud failide ignoreerimine
 .DS_Store 
+
+# Lisame ja vaatame kas uuendamisel ignob
+mivnjiggt
+midagi.txt
+kuhugi.txt
