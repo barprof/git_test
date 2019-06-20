@@ -1,0 +1,14 @@
+# Kommentaarid saaab kribada hashtagiga aga ainult eraldi reale, mitte sisu järgi
+
+#Kindla faili ignoreerimine
+about.html
+passwords.txt
+
+#terve kausta ignoreerimine
+src/* 
+
+# Kaustast kindla faili MITTE ignoreerimine
+!src/style.css 
+
+# Varjatud failide ignoreerimine
+.DS_Store 
